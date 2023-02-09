@@ -1,4 +1,6 @@
-.cardText {white-space: normal;}
+.cardText {
+    white-space: normal;
+}
 
 .cardImage, .coveredImage {
     blackground-size: 50%;
