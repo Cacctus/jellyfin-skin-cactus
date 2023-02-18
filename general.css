@@ -25,3 +25,5 @@
 .cardBox-bottompadded {
     margin-bottom: 0 !important;
 }
+
+.itemTags {visibility: hidden; }
