@@ -26,4 +26,6 @@
     margin-bottom: 0 !important;
 }
 
-.itemTags {visibility: hidden; }
+.itemTags {
+    display: none; 
+}
